@@ -1,0 +1,6 @@
+{
+  "name": "crob-keycloak-import",
+  "dependencies": {
+    "keycloak": "^2.3.0"
+  }
+}
